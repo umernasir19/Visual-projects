@@ -1,0 +1,31 @@
+﻿@model List<mvc_project.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<p>this is home page</p>
+
+
+<table class="table table-responsive table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Mobile</th>
+    </tr>
+
+    @foreach(var s in Model)
+    {
+        <tr>
+            <td>@s.EmployeeId</td>
+            <td>@s.Name</td>
+            <td>@s.Email</td>
+            <td>@s.Mobile</td>
+        </tr>
+    }
+
+</table>
+
+

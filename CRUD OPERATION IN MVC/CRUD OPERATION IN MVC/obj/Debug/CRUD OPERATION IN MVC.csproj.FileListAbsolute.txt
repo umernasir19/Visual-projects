@@ -1,0 +1,20 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\CRUD OPERATION IN MVC.dll.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\CRUD OPERATION IN MVC.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\CRUD OPERATION IN MVC.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Helpers.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Mvc.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Razor.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Webpages.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Webpages.Razor.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Razor.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Webpages.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Webpages.Razor.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Helpers.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\System.Web.Mvc.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\obj\Debug\CRUD OPERATION IN MVC.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\obj\Debug\CRUD OPERATION IN MVC.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\obj\Debug\CRUD OPERATION IN MVC.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\EntityFramework.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\CRUD OPERATION IN MVC\CRUD OPERATION IN MVC\bin\EntityFramework.xml

@@ -1,0 +1,26 @@
+﻿@model List<CRUD_OPERATION_IN_MVC.Models.CrudOperations>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Create New Members</h2>
+
+    <form class="form-group">
+        <table>
+            
+            
+
+                @foreach (var s in Model)
+                {
+                    <tr>@s.Name</tr>
+                    <tr>@s.Email</tr>
+                    <tr>@s.Email</tr>
+                }
+
+
+
+            
+
+        </table>
+    </form>
+

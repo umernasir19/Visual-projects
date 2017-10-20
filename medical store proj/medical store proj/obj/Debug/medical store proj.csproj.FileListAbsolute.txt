@@ -1,0 +1,14 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\bin\Debug\medical store proj.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\bin\Debug\medical store proj.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\bin\Debug\medical store proj.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical store proj.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.Form1.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.Properties.Resources.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical store proj.csproj.GenerateResource.Cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical store proj.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical store proj.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.addstock.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.menu.resources
+C:\Users\Hafiz Umer Bin Nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.viewstock.resources
+C:\Users\Hafiz Umer Bin Nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.update.resources
+C:\Users\Hafiz Umer Bin Nasir\documents\visual studio 2013\Projects\medical store proj\medical store proj\obj\Debug\medical_store_proj.remove.resources

@@ -1,0 +1,6 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Non Virtual Interface Pattern\Non Virtual Interface Pattern\bin\Debug\Non Virtual Interface Pattern.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Non Virtual Interface Pattern\Non Virtual Interface Pattern\obj\Debug\Non Virtual Interface Pattern.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Non Virtual Interface Pattern\Non Virtual Interface Pattern\bin\Debug\Non Virtual Interface Pattern.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Non Virtual Interface Pattern\Non Virtual Interface Pattern\bin\Debug\Non Virtual Interface Pattern.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Non Virtual Interface Pattern\Non Virtual Interface Pattern\obj\Debug\Non Virtual Interface Pattern.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Non Virtual Interface Pattern\Non Virtual Interface Pattern\obj\Debug\Non Virtual Interface Pattern.pdb

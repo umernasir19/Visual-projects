@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Form";
+}
+
+<h2>Registration</h2>
+
+@using (Html.BeginForm())
+{
+    <form role = "form">
+
+   <div class = "form-group">
+       <label for="name">First Number @Html.TextBox("FirstNumber")</label>
+       <label for="name">Second Number @Html.TextBox("SecondNumber") </label><br />
+       <button class="bg-primary">Get Result</button><br />
+       <p>Result=@ViewBag.Result</p>
+   </div>
+   
+</form>
+}
+

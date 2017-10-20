@@ -1,0 +1,6 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\swap\swap\bin\Debug\swap.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\swap\swap\bin\Debug\swap.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\swap\swap\bin\Debug\swap.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\swap\swap\obj\Debug\swap.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\swap\swap\obj\Debug\swap.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\swap\swap\obj\Debug\swap.pdb

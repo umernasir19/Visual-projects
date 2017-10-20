@@ -1,0 +1,18 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\Mvc application.dll.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\Mvc application.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\Mvc application.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Helpers.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Mvc.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Razor.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Webpages.Deployment.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Webpages.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Webpages.Razor.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Razor.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Webpages.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Webpages.Deployment.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Webpages.Razor.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Helpers.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\bin\System.Web.Mvc.xml
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\obj\Debug\Mvc application.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\obj\Debug\Mvc application.dll
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\Mvc application\Mvc application\obj\Debug\Mvc application.pdb

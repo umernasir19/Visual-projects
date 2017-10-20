@@ -1,0 +1,6 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\multiple\multiple\bin\Debug\multiple.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\multiple\multiple\bin\Debug\multiple.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\multiple\multiple\bin\Debug\multiple.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\multiple\multiple\obj\Debug\multiple.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\multiple\multiple\obj\Debug\multiple.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\multiple\multiple\obj\Debug\multiple.pdb

@@ -1,0 +1,9 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\bin\Debug\crystal report.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\bin\Debug\crystal report.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\bin\Debug\crystal report.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal_report.Form1.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal_report.Properties.Resources.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.csproj.GenerateResource.Cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.pdb

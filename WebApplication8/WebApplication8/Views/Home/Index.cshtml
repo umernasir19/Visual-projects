@@ -1,0 +1,69 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.15/js/jquery.datatables.min.js" />
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div style="width:90%;margin:0 auto;"> 
+        <table id="mydatatable">
+            <thead>
+                <tr>
+                    <th>FirstName</th>
+                    <th>LasttName</th>
+                    <th>Email</th>
+                    <th>City</th>
+                    <th>Country</th>
+                </tr>
+            </thead>
+
+
+
+        </table>
+
+
+    </div>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.13/js/jquery.datatables.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var OTable = $('#mydatatable').DataTable({
+
+                'ajax': {
+                    "url": '/home/GetEmployees',
+                    "type": "get",
+                    "datatype":"json"
+                },
+                "coloumns": [
+                    { "data": "FirstName", "autowidth": true },
+                    { "data": "LasttName", "autowidth": true },
+                    { "data": "Email", "autowidth": true },
+                    { "data": "City", "autowidth": true },
+                    { "data": "Country", "autowidth": true }
+
+                   
+                ]
+            })
+
+
+
+        }
+        )
+    </script>
+
+
+</body>
+</html>

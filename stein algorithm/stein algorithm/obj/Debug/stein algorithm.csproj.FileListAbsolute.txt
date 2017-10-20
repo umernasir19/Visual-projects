@@ -1,0 +1,6 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\stein algorithm\stein algorithm\bin\Debug\stein algorithm.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\stein algorithm\stein algorithm\bin\Debug\stein algorithm.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\stein algorithm\stein algorithm\bin\Debug\stein algorithm.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\stein algorithm\stein algorithm\obj\Debug\stein algorithm.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\stein algorithm\stein algorithm\obj\Debug\stein algorithm.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\stein algorithm\stein algorithm\obj\Debug\stein algorithm.pdb

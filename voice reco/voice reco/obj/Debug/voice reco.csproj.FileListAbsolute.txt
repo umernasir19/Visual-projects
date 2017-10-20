@@ -1,0 +1,9 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\bin\Debug\voice reco.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\bin\Debug\voice reco.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\bin\Debug\voice reco.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\obj\Debug\voice reco.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\obj\Debug\voice_reco.Form1.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\obj\Debug\voice_reco.Properties.Resources.resources
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\obj\Debug\voice reco.csproj.GenerateResource.Cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\obj\Debug\voice reco.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\voice reco\voice reco\obj\Debug\voice reco.pdb

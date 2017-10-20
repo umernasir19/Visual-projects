@@ -1,0 +1,6 @@
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\xor swap\xor swap\bin\Debug\xor swap.exe.config
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\xor swap\xor swap\bin\Debug\xor swap.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\xor swap\xor swap\bin\Debug\xor swap.pdb
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\xor swap\xor swap\obj\Debug\xor swap.csprojResolveAssemblyReference.cache
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\xor swap\xor swap\obj\Debug\xor swap.exe
+c:\users\hafiz umer bin nasir\documents\visual studio 2013\Projects\xor swap\xor swap\obj\Debug\xor swap.pdb
